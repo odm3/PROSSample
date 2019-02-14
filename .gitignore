@@ -1,0 +1,9 @@
+
+/.vscode
+/bin
+/firmware
+!/include/*
+/include/display
+/include/okapi
+/include/pros
+!/src
